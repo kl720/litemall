@@ -1,12 +1,12 @@
 // 以下是业务服务器API地址
 // 本机开发时使用
-var WxApiRoot = 'http://localhost:8080/wx/';
+//var WxApiRoot = 'http://localhost:8080/wx/';
 // 局域网测试使用
 // var WxApiRoot = 'http://192.168.0.101:8080/wx/';
 // 云平台部署时使用
-// var WxApiRoot = 'http://118.24.0.153:8080/wx/';
+var WxApiRoot = 'http://139.9.251.246:8388/wx/';
 // 云平台上线时使用
-// var WxApiRoot = 'https://www.menethil.com.cn/wx/';
+//var WxApiRoot = 'http://localhost:8388/wx/';k12312312314444
 
 module.exports = {
   IndexUrl: WxApiRoot + 'home/index', //首页数据接口

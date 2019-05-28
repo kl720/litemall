@@ -12,12 +12,12 @@ Page({
   data: {
     load_statue: true,
     shopInfo: {
-      name: 'litemall',
-      address: 'https://github.com/linlinjava/litemall',
-      latitude: 31.201900,
-      longitude: 121.587839,
-      linkPhone: '021-xxxx-xxxx',
-      qqNumber: '738696120'
+      name: '匡氏优品',
+      address: '成都高新区天府四街66号2栋10层2号',
+      latitude: 30.549,
+      longitude: 104.0734,
+      linkPhone: '028-89896893',
+      qqNumber: '513485241'
     },
   },
 
