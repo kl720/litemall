@@ -12,4 +12,7 @@ import java.lang.annotation.Target;
 public @interface RequiresPermissionsDesc {
     String[] menu();
     String button();
+
+
+
 }

@@ -57,7 +57,7 @@
           <text class="txt">￥{{orderInfo.goodsPrice}}</text>
         </view>
         <view class="t">
-          <text class="label">运费：</text>
+          <text class="label">：</text>
           <text class="txt">￥{{orderInfo.freightPrice}}</text>
         </view>
         <view class="t">

@@ -29,6 +29,11 @@ public class AdminAdController {
     @Autowired
     private LitemallAdService adService;
 
+    @RequestMapping("/test")
+    public String index() {
+        return "index-test";
+    }
+
     @RequiresPermissions("admin:ad:list")
     @RequiresPermissionsDesc(menu={"推广管理" , "广告管理"}, button="查询")
     @GetMapping("/list")

@@ -1,8 +1,8 @@
 {
-  "name": "litemall-admin",
+  "name": "kuangshop",
   "version": "0.1.0",
-  "description": "litemall-admin basing on vue-element-admin 3.9.3",
-  "author": "linlinjava <linlinjava@163.com>",
+  "description": "kuangshop system basing on vue-element-admin 3.9.3",
+  "author": "johnny_kl@163.com",
   "license": "MIT",
   "private": true,
   "scripts": {

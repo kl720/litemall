@@ -4,9 +4,9 @@
 // 局域网测试使用
 // var WxApiRoot = 'http://192.168.0.101:8080/wx/';
 // 云平台部署时使用
-var WxApiRoot = 'http://139.9.251.246:8388/wx/';
+//var WxApiRoot = 'http://139.9.251.246:8388/wx/';
 // 云平台上线时使用
-//var WxApiRoot = 'http://localhost:8388/wx/';k12312312314444
+var WxApiRoot = 'https://cduhw.cn:8443/wx/';
 
 module.exports = {
   IndexUrl: WxApiRoot + 'home/index', //首页数据接口

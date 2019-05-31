@@ -13,6 +13,7 @@ import org.springframework.web.bind.annotation.ResponseBody;
 @Order( value = Ordered.HIGHEST_PRECEDENCE )
 public class ShiroExceptionHandler {
 
+
     @ExceptionHandler(AuthenticationException.class)
     @ResponseBody
     public Object unauthenticatedHandler(AuthenticationException e) {
