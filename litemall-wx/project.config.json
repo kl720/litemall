@@ -6,7 +6,9 @@
 		"postcss": true,
 		"minified": true,
 		"newFeature": true,
-		"uglifyFileName": true
+		"autoAudits": false,
+		"uglifyFileName": true,
+		"checkInvalidKey": true
 	},
 	"compileType": "miniprogram",
 	"libVersion": "2.4.0",

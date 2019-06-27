@@ -1,5 +1,5 @@
 {
-  "navigationBarTitleText": "首页",
+  "navigationBarTitleText": "一匡天下",
   "usingComponents": {
     "zan-capsule": "../../lib/zanui-weapp/capsule/index"
   }
