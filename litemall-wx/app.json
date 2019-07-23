@@ -37,7 +37,8 @@
     "pages/groupon/grouponDetail/grouponDetail",
     "pages/groupon/grouponList/grouponList",
     "pages/coupon/coupon",
-    "pages/help/help"
+    "pages/help/help",
+    "pages/family/familyTree/familyTree"
   ],
   "window": {
     "navigationBarBackgroundColor": "#FFFFFF",
@@ -58,6 +59,12 @@
         "iconPath": "static/images/home.png",
         "selectedIconPath": "static/images/home@selected.png",
         "text": "匡氏产品"
+      },
+      {
+        "pagePath": "pages/family/familyTree/familyTree",
+        "iconPath": "static/images/category.png",
+        "selectedIconPath": "static/images/category@selected.png",
+        "text": "匡式"
       },
       {
         "pagePath": "pages/catalog/catalog",
